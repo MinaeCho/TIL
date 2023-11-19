@@ -4,8 +4,8 @@
 
 #### 
 - Markdown
-    - [Markdown 기초](https://github.com/MinaeCho/TIL/blob/main/STUDY/Markdown%20%EA%B8%B0%EC%B4%88.md)
+    - [Markdown 기초](<STUDY.md/Markdown 기초.md>)
 
 - Git / Github
-    - [Git,Github](STUDY/Git,GitHub)
+    - [Git,Github](STUDY.md/Git,GitHub.md)
 
